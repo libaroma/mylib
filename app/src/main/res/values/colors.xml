@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B28FE1</color>
+    <color name="colorPrimaryDark">#251643</color>
+    <color name="colorAccent">#B0A0D1</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#979494</color>
+    <color name="lightGrey">#D0C9C9</color>
+
+
+    <color name="Mauve">#ECECF8</color>
+    <color name="text_color_day">#0B1F30</color>
+    <color name="text_description_color_day">#8F0B1F30</color>
+    <color name="text_color_select_day">#00BCD4</color>
+    <color name="indicator_color_day">#40c4ff</color>
+
+
+    <color name="Dark">#080C18</color>
+    <color name="text_color_dark">#FFFFFF</color>
+    <color name="text_description_color_dark">#D3D3D3</color>
+    <color name="text_color_select_dark">#8171E1</color>
+    <color name="indicator_color_dark">#8171E1</color>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/minijianqiti</item>
+    </style>
+
+    <style name="AppTheme.Day">
+        <item name="custom_attr_app_bg">@color/white</item>
+        <item name="custom_attr_cover_bg_color">@color/white</item>
+        <item name="custom_attr_view_bg">@color/Mauve</item>
+        <item name="custom_attr_text_color">@color/text_color_day</item>
+        <item name="custom_attr_text_description_color">@color/text_description_color_day</item>
+        <item name="custom_attr_text_label_color">@color/white</item>
+        <item name="custom_attr_text_select_color">@color/text_color_select_day</item>
+        <item name="custom_attr_text_label1_bg_color">@color/text_color_select_day</item>
+        <item name="custom_attr_text_label2_bg_color">@color/text_color_select_dark</item>
+        <item name="custom_attr_indicator_color">@color/indicator_color_day</item>
+    </style>
+
+    <style name="AppTheme.Dark">
+        <item name="custom_attr_app_bg">@color/black</item>
+        <item name="custom_attr_cover_bg_color">@color/text_description_color_day</item>
+        <item name="custom_attr_view_bg">@color/Dark</item>
+        <item name="custom_attr_text_color">@color/white</item>
+        <item name="custom_attr_text_description_color">@color/text_description_color_dark</item>
+        <item name="custom_attr_text_label_color">@color/Dark</item>
+        <item name="custom_attr_text_label1_bg_color">@color/Mauve</item>
+        <item name="custom_attr_text_label2_bg_color">@color/lightGrey</item>
+        <item name="custom_attr_text_select_color">@color/text_color_select_dark</item>
+        <item name="custom_attr_indicator_color">@color/indicator_color_dark</item>
+
+    </style>
+
+
+</resources>
